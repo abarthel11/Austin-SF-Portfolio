@@ -1,0 +1,11 @@
+.image-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.image-container img {
+	border-radius: 50%;
+	/* border: 10px solid #38b6ff; */
+	/* box-shadow: 0 0 20px 10px #38b6ff; */
+	object-fit: cover;
+}
